@@ -1,5 +1,5 @@
 package controlefluxo;
 
-public class CepInvalidoException {
+public class CepInvalidoException extends Exception{
 
 }
